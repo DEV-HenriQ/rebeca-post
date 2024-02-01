@@ -27,7 +27,7 @@ body
    flex-direction: column;
    justify-content: space-between;
    box-shadow: 2px 2px 5px black;
-   color: #b15d0a;
+   color: #0ab19b;
 }
 
 .info1
@@ -56,6 +56,6 @@ body
 
 .info2 p
 {
-   background-color: #021a209a;
+   background-color: #021a20bb;
    border-radius: 20px;
 }
